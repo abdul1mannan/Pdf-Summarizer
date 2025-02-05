@@ -1,0 +1,15 @@
+__pycache__/
+db/
+*.db
+*.sqlite
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.bak
+.env
+config.json
+settings.yaml
+.venv/
+env/
